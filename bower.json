@@ -1,0 +1,23 @@
+{
+    "name": "angular-sortable-table",
+    "version": "0.0.0",
+    "homepage": "https://github.com/giannico/angular-sortable-table",
+    "author": "Andre Giannico",
+    "description": "A simple non-intrusive directive for adding sorting functionality to an HTML table",
+    "license": "MIT",
+    "main": "dist/sortable-table.module.js",
+    "keywords": ["angular", "table", "sort", "sorting"],
+    "dependencies": {
+        "angular": ">=1.2.14"
+    },
+    "ignore": [
+        "CHANGELOG.md",
+        "Gruntfile.js",
+        ".jshintrc",
+        "bower_components",
+        "dist",
+        "node_modules",
+        "src",
+        "test"
+    ]
+}
